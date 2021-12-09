@@ -37,7 +37,6 @@ decorator
 defusedxml
 diff-match-patch
 docutils==0.16
-en-core-web-lg
 entrypoints==0.3
 filelock==3.3.2
 flake8
