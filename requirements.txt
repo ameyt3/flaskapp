@@ -158,7 +158,6 @@ scikit-learn==0.24.1
 scipy
 seaborn
 Send2Trash
-sip==4.19.13
 six
 sklearn==0.0
 smart-open==5.2.1
